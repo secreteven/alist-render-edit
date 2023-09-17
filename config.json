@@ -7,7 +7,7 @@
   "site_url": "",
   "cdn": "",
   "database": {
-    "type": "mysql",
+    "type": "postgres",
     "host": "",
     "port": 0,
     "user": "",
